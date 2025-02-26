@@ -1,7 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
 package ec.edu.espoch.gestionpersonas;
 
 /**
@@ -11,6 +10,7 @@ package ec.edu.espoch.gestionpersonas;
 public class GestionPersonas {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Vista = new objVista  = new Vista();
+
     }
 }
